@@ -16,9 +16,6 @@
     --background-box-hover: linear-gradient(145deg, #353636, #141414);
     --box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
-body{
-    font-size: 0.6rem;
-}
 *{
     margin: 0;
     padding: 0;
